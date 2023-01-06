@@ -92,3 +92,6 @@ history -a
 ./insert_data.sh
 echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
 history -a
+ls --color=auto -lrt
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
